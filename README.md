@@ -36,4 +36,3 @@ http://www.elegantthemes.com/gallery/divi/documentation/customizer/
 
 ## Copyright
 > **© Copyright 2013-2022, Elegant Themes, Inc.**
-# Divi-Private
