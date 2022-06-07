@@ -1,8 +1,8 @@
 {
   "type": "wordpress-theme",
-  "name": "brandonshutter/divi-private",
-  "version": "1.0.0",
+  "name": "brandonshutter/div-composer",
+  "version": "4.17.4",
   "require": {
-    "composer/installers": "~1.0"
+    "composer/installers": "^2.1"
   }
 }
