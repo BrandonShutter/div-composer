@@ -1,0 +1,8 @@
+{
+    "type": "wordpress-theme",
+    "name": "brandonshutter/div-composer",
+    "version": "4.18.0",
+    "require": {
+      "composer/installers": "^2.1"
+    }
+  }
